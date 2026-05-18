@@ -170,7 +170,7 @@ Each program writes a CSV file to the `Tables/` directory. Columns vary by progr
 
 ## License
 
-Copyright (c) 2026 Kevin Fontyn. All rights reserved.
+Copyright (c) 2026 Kevin Mathew Fontyn. All rights reserved.
 
 Permission is granted to use this code for personal, educational, and research purposes only.
 Reproduction, modification, and commercial use are strictly prohibited without the express written permission of the author.
